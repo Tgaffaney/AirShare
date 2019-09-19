@@ -6,8 +6,6 @@ This app was developed for a networking class.  A few friends and I wanted to bu
 
 *This app is not on the Appstore and will need to be installed manually with xcode*
 
-*This app is also pretty buggy*
-
 ## How it works
 
 Once two people have the app downloaded, they will see eachother on the main screen.  
@@ -30,6 +28,13 @@ When the transfer is done, *David* will have the image on his phone.
 
 ![Fifth Image](airShare/Images/5.jpg)
 
+## What we learned
+
+- iOS is not meant to transfer moderately sized data to non-iPhones
+- Bluetooth LE is not meant to transfer large files (it still will, just slowly)
+- Networking to other devices is kind of finicky
+- BLE can transfer data over a large distance (up to a football field in length)
+
 ## Run the project
 
 ### Prerequisites
@@ -39,4 +44,11 @@ The only dependency is that you install [BSImagePicker](https://github.com/mikao
 ```ruby
 pod "BSImagePicker", "~> 2.8"
 ```
+
+### Key Notes:
+ 
+- This app is also pretty buggy
+- This app only transmits Images
+- There is an Android version [Here](https://github.com/benmohan77/BluetoothFileTransfer-Android) made by my friend Ben
+- The images transmit slowly :)
 
