@@ -1,2 +1,5 @@
-# BluetoothFileTransfer-iOS
-Repository for networking project, an app that allows easy transfer of files over bluetooth regardless of platform.
+# AirShare
+
+## Summary
+
+This app was developed for a networking class.  A few friends and I wanted to build a cross platform File Transfer App.  
