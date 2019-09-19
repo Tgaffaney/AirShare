@@ -6,7 +6,7 @@ This app was developed for a networking class.  A few friends and I wanted to bu
 
 ## How it works
 
-Firstly, once the app is downloaded 
+Once two people have the app downloaded, this is what they will each see.  
 
 ![First Image](airShare/Images/1.jpg)
 
