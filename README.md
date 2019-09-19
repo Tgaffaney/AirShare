@@ -8,7 +8,7 @@ This app was developed for a networking class.  A few friends and I wanted to bu
 
 Firstly, once the app is downloaded 
 
-![Image](airShare/Images/IMG_0090.PNG)
+![First Image](airShare/Images/1.jpg)
 
 ## Run the project
 
