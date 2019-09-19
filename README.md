@@ -2,9 +2,9 @@
 
 ## Summary
 
-This app was developed for a networking class.  A few friends and I wanted to build a cross platform File Transfer App.  
+This app was developed for a networking class.  A few friends and I wanted to build a cross platform File Transfer App.  I mostly worked on the iPhone version while some others worked on the Android version found [here](https://github.com/benmohan77/BluetoothFileTransfer-Android)  
 
-*This app is not on the Appstore and will need to be installed manually with xcode*
+*This app is not on the Appstore and will need to be installed, compiled, and ran manually with xcode*
 
 ## How it works
 
@@ -35,7 +35,7 @@ When the transfer is done, *David* will have the image on his phone.
 - Networking to other devices is kind of finicky
 - BLE can transfer data over a large distance (up to a football field in length)
 
-## Run the project
+## Run the project yourself
 
 ### Prerequisites
 
@@ -49,6 +49,5 @@ pod "BSImagePicker", "~> 2.8"
  
 - This app is also pretty buggy
 - This app only transmits Images
-- There is an Android version [Here](https://github.com/benmohan77/BluetoothFileTransfer-Android) made by my friend Ben
-- The images transmit slowly :)
+- The images transmit slowly :\
 
