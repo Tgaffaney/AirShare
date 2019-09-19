@@ -16,7 +16,7 @@ Once two people have the app downloaded, they will see eachother on the main scr
 
 If *David* were to tap on *Tyler* then it will show this.
 
-![Second Image](airShare/Images/2.jpg)
+![Second Image](airShare/Images/20.jpg)
 
 *Tyler* can accept or decline the file request, if he accepts then it will have him pick an image to send.
 
