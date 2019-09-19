@@ -6,6 +6,13 @@ This app was developed for a networking class.  A few friends and I wanted to bu
 
 *This app is not on the Appstore and will need to be installed, compiled, and ran manually with xcode*
 
+## What we learned
+
+- iOS is not meant to transfer moderately sized data to non-iPhones
+- Bluetooth LE is not meant to transfer large files (it still will, just slowly)
+- Networking to other devices is kind of finicky
+- BLE can transfer data over a large distance (up to a football field in length)
+
 ## How it works
 
 Once two people have the app downloaded, they will see eachother on the main screen.  
@@ -27,13 +34,6 @@ Once *Tyler* selects an image, it will begin transferring to *David's* device.
 When the transfer is done, *David* will have the image on his phone.
 
 ![Fifth Image](airShare/Images/5.jpg)
-
-## What we learned
-
-- iOS is not meant to transfer moderately sized data to non-iPhones
-- Bluetooth LE is not meant to transfer large files (it still will, just slowly)
-- Networking to other devices is kind of finicky
-- BLE can transfer data over a large distance (up to a football field in length)
 
 ## Run the project yourself
 
