@@ -6,6 +6,8 @@ This app was developed for a networking class.  A few friends and I wanted to bu
 
 *This app is not on the Appstore and will need to be installed, compiled, and ran manually with xcode*
 
+*This app was a proof of concept to see what an iOS <-> Android bluetooth file sharing app could be like*
+
 ## What we learned
 
 - iOS is not meant to transfer moderately sized data to non-iPhones
